@@ -11,6 +11,6 @@ Problemen führen könnte.
 
 ## Usage/Examples
 
-![Usage/Examples](https://i.imgur.com/VemTF3P.png)
+![Usage/Examples](https://i.imgur.com/Sdl3oeS.png)
 
 Map-Link: https://mega.nz/file/vuJzlJzZ#ga358exXI0QNgGqNLqt-fsYlzWAZEFInwRp2qlQa3uM
