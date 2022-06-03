@@ -1,0 +1,8 @@
+name: 1.18.2Golf
+version: 1.0
+author: ImmerNochNoah
+main: de.immernochnoah.golf.Main
+api-version: 1.18
+
+commands:
+  next:
